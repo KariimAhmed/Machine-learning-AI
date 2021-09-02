@@ -1,0 +1,5 @@
+In this project we aim to build a linear regression model.
+sol1 is the single feature linear regression , it uses gradient descent with parameters alpha and no. of iterations
+sol1_extra is the multi feature linear  regression ,  it uses gradient descent with parameters alpha and no. of iterations with varying alpha
+also at sol1_extra normal equation to solve theta is implemented to compare with the gradient descent results 
+
